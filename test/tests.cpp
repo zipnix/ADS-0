@@ -3,6 +3,6 @@
 #include "alg.h"
 
 TEST(algtest, test1) {
-  int result = gcd(10,15);
+  int result = gcd(10, 15);
   EXPECT_EQ(5, result);
 }
