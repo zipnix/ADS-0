@@ -22,6 +22,7 @@ int gcd(int a,int b) {
 Функцию **gcd** можно использовать следующим образом:
 
 ```cpp
+#include <iostream>
 #include "alg.h"
 
 int main() {
